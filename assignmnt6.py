@@ -7,7 +7,7 @@ for i in range(1,10):
 #ques 2
 
 x="True"
-while(x=="rue"):
+while(x=="True"):
     print("loop is infinite")
 
 #ques 3
